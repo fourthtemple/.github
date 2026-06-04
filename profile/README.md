@@ -14,30 +14,11 @@ A music creation system for building and shaping musical ideas quickly.
 
 An animation and asset workflow for imported, generated, or motion-tracked material. Cleanup focuses on practical editing, repair, and export tools for creative production.
 
-### [`@fourthtemple/fbx-exporter`](https://github.com/fourthtemple/fbx-exporter)
+### FBX Exporter
 
-A from-scratch binary FBX exporter for browser and Node pipelines.
+An open-source JavaScript FBX exporter for browser and Node pipelines. It supports Three.js-style scene export with meshes, hierarchy, materials, textures, skeletons, skinning, morph targets, animation curves, TypeScript declarations, and target presets for common 3D applications.
 
-It exports Three.js-style scenes with meshes, hierarchy, materials, textures, embedded texture content, skeletons, skinning, morph targets, and baked animation curves. The package is plain ESM JavaScript, has no runtime dependencies, includes TypeScript declarations, and supports target presets for Three.js/Web, Unity, Unreal, Blender, and Maya.
+## Open Source
 
-Install from npm:
-
-```bash
-npm install @fourthtemple/fbx-exporter
-```
-
-Use it from JavaScript:
-
-```js
-import { exportFbx } from "@fourthtemple/fbx-exporter";
-
-const bytes = exportFbx(scene, {
-  target: "blender",
-  embedTextures: true
-});
-```
-
-## Links
-
-- npm: [`@fourthtemple/fbx-exporter`](https://www.npmjs.com/package/@fourthtemple/fbx-exporter)
-- GitHub: [`fourthtemple/fbx-exporter`](https://github.com/fourthtemple/fbx-exporter)
+- [`fourthtemple/fbx-exporter`](https://github.com/fourthtemple/fbx-exporter)
+- [`@fourthtemple/fbx-exporter`](https://www.npmjs.com/package/@fourthtemple/fbx-exporter)
