@@ -1,18 +1,18 @@
 # Fourth Temple
 
-Fourth Temple builds production-ready open-source creative tools for audiovisual work.
+Fourth Temple builds production-ready creative tools for audiovisual work.
 
-The suite focuses on outstanding engineering quality, unique features, and impeccably designed software for rhythm-driven music creation, animation cleanup, character asset repair, and browser-first production workflows.
+The work spans music creation, animation, asset workflows, and experimental production systems, with an emphasis on outstanding engineering quality, unique features, and carefully designed software. Some tools are open source, some are in active development, and the long-term goal is a suite that works well online and offline, including high-performance native builds where they make sense.
 
 ## Projects
 
 ### Rhythm Artist
 
-A beat-making and rhythm composition system for building musical ideas quickly in the browser.
+A music creation system for building and shaping musical ideas quickly.
 
 ### Cleanup
 
-A browser-based character cleanup workflow for imported, generated, or motion-tracked assets. Cleanup focuses on practical fixes for animation, rigging, textures, and export.
+An animation and asset workflow for imported, generated, or motion-tracked material. Cleanup focuses on practical editing, repair, and export tools for creative production.
 
 ### [`@fourthtemple/fbx-exporter`](https://github.com/fourthtemple/fbx-exporter)
 
