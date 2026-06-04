@@ -10,7 +10,7 @@ The work spans music creation, animation, asset workflows, and experimental prod
 
 A music creation system for building and shaping musical ideas quickly.
 
-### Cleanup
+### [Cleanup](https://github.com/fourthtemple/cleanup)
 
 An animation and asset workflow for imported, generated, or motion-tracked material. Cleanup focuses on practical editing, repair, and export tools for creative production.
 
@@ -20,5 +20,6 @@ An open-source JavaScript FBX exporter for browser and Node pipelines. It suppor
 
 ## Open Source
 
+- [`fourthtemple/cleanup`](https://github.com/fourthtemple/cleanup)
 - [`fourthtemple/fbx-exporter`](https://github.com/fourthtemple/fbx-exporter)
 - [`@fourthtemple/fbx-exporter`](https://www.npmjs.com/package/@fourthtemple/fbx-exporter)
