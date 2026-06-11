@@ -14,12 +14,12 @@ A music creation system for building and shaping musical ideas quickly.
 
 An animation and asset workflow for imported, generated, or motion-tracked material. Cleanup focuses on practical editing, repair, and export tools for creative production.
 
-### FBX Exporter
+### [three-js-fbx-exporter](https://github.com/fourthtemple/three-js-fbx-exporter)
 
-An open-source JavaScript FBX exporter for browser and Node pipelines. It supports Three.js-style scene export with meshes, hierarchy, materials, textures, skeletons, skinning, morph targets, animation curves, TypeScript declarations, and target presets for common 3D applications.
+An open-source JavaScript FBX exporter for Three.js browser and Node pipelines. It supports Three.js-style scene export with meshes, hierarchy, materials, textures, skeletons, skinning, morph targets, animation curves, TypeScript declarations, and target presets for common 3D applications.
 
 ## Open Source
 
 - [`fourthtemple/cleanup`](https://github.com/fourthtemple/cleanup)
-- [`fourthtemple/fbx-exporter`](https://github.com/fourthtemple/fbx-exporter)
-- [`@fourthtemple/fbx-exporter`](https://www.npmjs.com/package/@fourthtemple/fbx-exporter)
+- [`fourthtemple/three-js-fbx-exporter`](https://github.com/fourthtemple/three-js-fbx-exporter)
+- [`three-js-fbx-exporter`](https://www.npmjs.com/package/three-js-fbx-exporter)
