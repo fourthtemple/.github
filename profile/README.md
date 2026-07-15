@@ -6,7 +6,7 @@ The work spans music creation, animation, asset workflows, and experimental prod
 
 ## Projects
 
-### Rhythm Artist
+### [Rhythm Artist](https://github.com/fourthtemple/rhythm-artist)
 
 A music creation system for building and shaping musical ideas quickly.
 
@@ -21,5 +21,6 @@ An open-source JavaScript FBX exporter for Three.js browser and Node pipelines. 
 ## Open Source
 
 - [`fourthtemple/cleanup`](https://github.com/fourthtemple/cleanup)
+- [`fourthtemple/rhythm-artist`](https://github.com/fourthtemple/rhythm-artist)
 - [`fourthtemple/three-js-fbx-exporter`](https://github.com/fourthtemple/three-js-fbx-exporter)
 - [`three-js-fbx-exporter`](https://www.npmjs.com/package/three-js-fbx-exporter)
