@@ -6,7 +6,7 @@ The work spans music creation, animation, asset workflows, and experimental prod
 
 ## Projects
 
-### [Rhythm Artist](https://github.com/fourthtemple/rhythm-artist)
+### [Rhythm Artist](https://fourthtemple.com/rhythmartist)
 
 A music creation system for building and shaping musical ideas quickly.
 
